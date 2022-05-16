@@ -95,8 +95,9 @@ async function startXeonBotInc() {
         }
     })
     
-    // Group Update
-    XeonBotInc.ev.on('groups.update', async pea => {
+// Group Update
+    //XeonBotInc.ev.on('groups.update', async pea => 
+{
        //console.log(pea)
     // Get Profile Picture Group
        try {
@@ -226,7 +227,7 @@ Tol = await getBuffer(`https://hardianto.xyz/api/goodbye3?profile=${encodeURICom
         return status
     }
 	
-    XeonBotInc.public = true
+    XeonBotInc.public = false
 
     XeonBotInc.serializeM = (m) => smsg(XeonBotInc, m, store)
 

@@ -21,19 +21,19 @@ global.APIKeys = {
 }
 
 //customize settings\\
-global.owner = ['916909137213']
-global.premium = ['916909137213']
-global.ownernomer = '916909137213'
-global.ownername = '🦄Dream Guy Xeon'
-global.botname = 'Cheems Bot MD V2'
-global.footer = 'Xeon Bot Inc.'
-global.ig = 'https://github.com/DGXeon'
-global.region = 'India, NorthEast, Mizoram'
-global.sc = 'https://github.com/DGXeon/CheemsBot-MD2'
-global.myweb = 'https://youtu.be/imFIX-Wrt3s'
-global.packname = 'Cheems Bot'
-global.author = '🦄Dream Guy Xeon'
-global.sessionName = 'session'
+global.owner = ['919747796153']
+global.premium = ['919747796153']
+global.ownernomer = '919747796153'
+global.ownername = 'Arun Jacob'
+global.botname = 'Toxic A J https://www.instagram.com/reel/CdYgNQOFRQZ/?igshid=YmMyMTA2M2Y= MD V2'
+global.footer = 'Alien Alfa beta'
+global.ig = 'https://github.com/arun._jacob'
+global.region = 'India,south, Kerala'
+global.sc = 'https://github.com/'
+global.myweb = ''
+global.packname = 'Toxic'
+global.author = 'A J'
+global.sessionName = 'session. alfa'
 global.prefa = ['','!','.','🐦','🐤','🗿']
 global.sp = '⭔'
 global.mess = {
